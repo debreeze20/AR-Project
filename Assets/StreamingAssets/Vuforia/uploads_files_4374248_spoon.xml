@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="uploads_files_4374248_spoon" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="uploads_files_4374248_spoons_assembly" assemblyId="2c356b426f3f4bdc8d91f8e6f094176f">
+<Part name="uploads_files_4374248_spoon" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-4.24161 -0.747636 13.8176" rotation="AD: 0.97507 -0.412598 0.75593 224.499" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-4.49055 0.0220221 13.2345" rotation="AD: 0.933653 -0.602939 0.933738 225.109" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-4.49771 0.395244 13.1287" rotation="AD: 0.957201 -0.445971 0.975101 213.879" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

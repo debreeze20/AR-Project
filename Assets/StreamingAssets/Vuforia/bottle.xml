@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="bottle" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="bottles_assembly" assemblyId="bf7d7cfddfa640afa56f20a664885ed8">
+<Part name="bottle" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0001" translation="-0.475154 0.0289176 18.4748" rotation="AD: 1 0.00050653 -0.00307252 198.723" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0000" translation="-0.475154 0.0290931 18.6542" rotation="AD: 1 0.000458164 -0.00307252 196.962" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.370533 0.170304 17.9157" rotation="AD: 0.999596 -0.0883406 0.35132 206.602" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="0.319642 0.162804 18.0117" rotation="AD: 0.933255 -0.402352 2.04667 189.181" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="0.464296 -0.00683329 18.8312" rotation="AD: -0.650425 -0.773384 5.29798 177.983" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

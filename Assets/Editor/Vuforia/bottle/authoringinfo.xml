@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.13.3">
+<ModelTarget name="bottle" targetId="d4aa59d82c2e4e7798304f0f4303ac8b" version="14.0" toolVersion="10.13.3" bbox="-1.585243 -4.892729 -1.583046 1.583046 4.945293 1.585243" previewImage="d4aa59d82c2e4e7798304f0f4303ac8b_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="bottles_assembly" assemblyId="bf7d7cfddfa640afa56f20a664885ed8">
+<Part name="bottle" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0001" translation="-0.475154 0.0289176 18.4748" rotation="AD: 1 0.00050653 -0.00307252 198.723" image="bottle_GuideView_0001.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0000" translation="-0.475154 0.0290931 18.6542" rotation="AD: 1 0.000458164 -0.00307252 196.962" image="bottle_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.370533 0.170304 17.9157" rotation="AD: 0.999596 -0.0883406 0.35132 206.602" image="bottle_GuideView_0002.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="0.319642 0.162804 18.0117" rotation="AD: 0.933255 -0.402352 2.04667 189.181" image="bottle_GuideView_0003.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="0.464296 -0.00683329 18.8312" rotation="AD: -0.650425 -0.773384 5.29798 177.983" image="bottle_GuideView_0004.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

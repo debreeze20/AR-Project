@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="spoon" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="spoons_assembly" assemblyId="0e6bdb587a7c4061a9a2a2c948bcec79">
+<Part name="spoon" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-6.78003e-06 3.0343 99.455" rotation="AD: 1 -0.000522712 0.00168907 214.391" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="0.00143147 3.4084 98.759" rotation="AD: 0.999515 0.0818847 -0.419925 200.326" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.00127888 3.04728 99.436" rotation="AD: 0.999362 -0.110215 0.360058 211.968" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="5.59236e-06 0.0418638 101.054" rotation="AD: -1 -0.00136703 0.00138344 90.6839" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="-0.000675082 0.181337 101.05" rotation="AD: 0.246442 -1.35817 1.42613 193.488" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0005" translation="7.78437e-05 1.47267 100.746" rotation="AD: -0.0353695 -1.19477 1.82472 178.783" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0006" translation="0.000701904 2.28413 100.259" rotation="AD: -0.389207 -1.03997 2.14921 171.097" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0007" translation="4.1008e-05 3.48801 98.5438" rotation="AD: -0.0629486 -1.01129 6.19338 179.812" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0008" translation="0.0011158 0.473711 101.023" rotation="AD: -0.434753 -1.25343 1.42609 157.801" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0009" translation="-2.0951e-05 2.60456 99.9731" rotation="AD: 0.0135981 -1.08213 2.61547 180.228" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

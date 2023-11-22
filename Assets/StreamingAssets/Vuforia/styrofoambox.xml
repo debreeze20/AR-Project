@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="styrofoambox" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="styrofoamboxs_assembly" assemblyId="f62907e9f6874c229a4e5298a3fcdc95">
+<Part name="styrofoambox" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="1.86265e-09 -7.90501e-06 0.42543" rotation="AD: 0.999626 0.0703764 -0.428526 197.132" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="2.21189e-09 -8.08382e-06 0.42543" rotation="AD: 1 -0.00348666 0.0282425 194.07" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-7.45058e-09 -5.21535e-06 0.425426" rotation="AD: 0.996557 -0.220369 0.457928 226.41" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="3.1665e-08 -4.48047e-06 0.425425" rotation="AD: 0.943047 -0.531409 0.963957 219.463" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
